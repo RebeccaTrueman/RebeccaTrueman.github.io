@@ -112,7 +112,7 @@ Whenever you can run sometime over and over again, a while loop is often a good 
 
 Here is the code, with a while loop doing the hard work of updated the number list and extracting primes until the list is empty.
 
-Let's run it for any primes below 1000...
+Let's run it for any primes below 1,000...
 
 ```ruby
 n = 1000
