@@ -43,7 +43,7 @@ There is a method which will remove an element from a list or set and provide th
 print(number_range)
 >>> {2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20}
 ```
-If we use pop, and assign this to the object called **prime** it will *pop* the first element from the set out of **number_range**, and into **prime**
+If we use pop, and assign this to the object called **prime** it will *pop* the first element from the set out of **number_range**, and into **prime**.
 
 ```ruby
 prime = number_range.pop()
@@ -53,7 +53,7 @@ print(number_range)
 >>> {3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20}
 ```
 
-Now, we know that the very first value in our range is going to be a prime...as there is nothing smaller than it so therefore nothing else could possible divide evenly into it.  As we know it's a prime, let's add it to our list of primes...
+Now, we know that the very first value in our range is going to be a prime, as there is nothing smaller than it so therefore nothing else could possible divide evenly into it.  As we know it's a prime number, let's add it to our list of primes...
 
 ```ruby
 primes_list.append(prime)
