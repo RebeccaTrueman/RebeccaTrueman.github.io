@@ -2,7 +2,8 @@
 ---
 layout: post
 title: Assessing Campaign Performance Using Chi-Square Test For Independence
-image: "/posts/ab-testing-title-img.png"
+image: "/posts/ab-testing-title-img.png"<img width="1920" height="1080" alt="ab-testing-title-img" src="https://github.com/user-attachments/assets/82f78cd6-1473-4803-8c41-b077f885512c" />
+
 tags: [AB Testing, Hypothesis Testing, Chi-Square, Python]
 In this project we apply Chi-Square Test For Independence (a Hypothesis Test) to assess the performance of two types of mailers that were sent out to promote a new service!
 Table of contents
