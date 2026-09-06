@@ -1,4 +1,4 @@
-<img width="1920" height="1080" alt="regression-title-img" src="https://github.com/user-attachments/assets/ce918a24-663e-4203-8572-3c7dcc79493b" />
+
 ---
 layout: post
 title: Predicting Customer Loyalty Using ML
